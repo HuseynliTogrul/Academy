@@ -1,0 +1,10 @@
+C:\Users\acer\Desktop\Academy.App\Academy.Core\bin\Debug\Academy.Core.dll
+C:\Users\acer\Desktop\Academy.App\Academy.Core\bin\Debug\Academy.Core.pdb
+C:\Users\acer\Desktop\Academy.App\Academy.Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\acer\Desktop\Academy.App\Academy.Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\acer\Desktop\Academy.App\Academy.Core\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\acer\Desktop\Academy.App\Academy.Core\obj\Debug\Academy.Core.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Academy.App\Academy.Core\obj\Debug\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Academy.App\Academy.Core\obj\Debug\Academy.Core.csproj.CopyComplete
+C:\Users\acer\Desktop\Academy.App\Academy.Core\obj\Debug\Academy.Core.dll
+C:\Users\acer\Desktop\Academy.App\Academy.Core\obj\Debug\Academy.Core.pdb
