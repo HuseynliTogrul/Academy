@@ -14,10 +14,5 @@ namespace Academy.Core.Models.BaseModels
             _id++;
             Id = _id;
         }
-
-        public override string ToString()
-        {
-            return $"Name:{Name}/Surname:{Surname}/Age:{Age}";
-        }
     }
 }
